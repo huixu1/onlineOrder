@@ -13,5 +13,4 @@ Provided authentication and authorization via spring security to protect the web
 Built the client side with React and Ant Design to allow users to place orders.
 
 
-Author: Hui Xu /
-Background: Transition to Software Engineer from Process Engineer in HDD industry.
+Author: Hui Xu
